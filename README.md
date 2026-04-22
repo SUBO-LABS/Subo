@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<img width="80" src="subo.png" alt="Subo Logo">
+<img width="80" src="subo.jpg" alt="Subo Logo">
 
 # Subo AI
 **Your browser, supercharged by AI.**
