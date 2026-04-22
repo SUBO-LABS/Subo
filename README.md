@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-<img width="80" src="https://placeholder.com" alt="Subo Logo">
+<img width="80" src="subo.png" alt="Subo Logo">
 
 # Subo AI
 **Your browser, supercharged by AI.**
