@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://shields.io" alt="Status"> 
-<img src="https://shields.io" alt="License">
+
 
 <br/>
 <br/>
