@@ -14,9 +14,9 @@ Connect to anything. Generate images, music, and code. Chat with an advanced AI,
 
 <br/>
 
-[<img src="https://shields.io" alt="Website">](https://subo.me)
-[<img src="https://shields.io" alt="Chrome Web Store">](https://google.com)
-[<img src="https://shields.io" alt="Discord">](https://discord.gg)
+[<img src="subo.jpg" alt="Website">](https://subo.me)
+[<img src="chrome.png" alt="Chrome Web Store">](https://google.com)
+[<img src="disco.png" alt="Discord">](https://discord.gg)
 
 </div>
 
@@ -53,7 +53,7 @@ Go beyond text. Generate stunning images, compose music, write production-ready 
 - [ ] Enterprise SSO & Team plans
 
 ## Contributing
-We are currently accepting external pull requests, but we love feedback! If you find a bug or have a feature request, please [open an issue](https://github.com) and label it appropriately.
+We are currently accepting external pull requests, but we love feedback! If you find a bug or have a feature request, please [open an issue](https://github.com/SUBO-LABS/Subo) and label it appropriately.
 
 ## Contact
 * **Website:** [subo.me](https://subo.me)
