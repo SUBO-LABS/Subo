@@ -1,23 +1,29 @@
-```markdown
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active_Building-6633EE?style=for-the-badge&logo=github&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/License-Proprietary-0a0a0a?style=for-the-badge&labelColor=666666&color=333333" alt="License">
-  <br><br>
-  <img width="80" src="https://via.placeholder.com/80x80/6633EE/FFFFFF?text=S" alt="Subo Logo" style="border-radius: 20px;">
-  <h1>Subo AI</h1>
-  <p><strong>Your browser, supercharged by AI.</strong></p>
-  <p>Connect to anything. Generate images, music, and code. Chat with an advanced AI, or let it take control and automate your entire workflow across any website.</p>
-  <br>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-Visit-6633EE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://chrome.google.com/webstore/detail/your-extension-id"><img src="https://img.shields.io/badge/Chrome-Add_to_Browser-28c840?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store"></a>
-  <a href="https://discord.gg/your-invite"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+
+<img src="https://shields.io" alt="Status"> 
+<img src="https://shields.io" alt="License">
+
+<br/>
+<br/>
+
+<img width="80" src="https://placeholder.com" alt="Subo Logo">
+
+# Subo AI
+**Your browser, supercharged by AI.**
+
+Connect to anything. Generate images, music, and code. Chat with an advanced AI, or let it take control and automate your entire workflow across any website.
+
+<br/>
+
+[<img src="https://shields.io" alt="Website">](https://subo.me)
+[<img src="https://shields.io" alt="Chrome Web Store">](https://google.com)
+[<img src="https://shields.io" alt="Discord">](https://discord.gg)
+
 </div>
-<br>
 
 ---
 
 ## What is Subo?
-
 Subo isn't just another chatbot. It's a **multimodal AI operating system** that lives entirely inside your browser. Instead of switching between tabs and tools, Subo brings advanced AI capabilities directly to the websites you already use.
 
 ## Core Capabilities
@@ -36,9 +42,7 @@ Go beyond text. Generate stunning images, compose music, write production-ready 
 
 ---
 
-
 ## Roadmap
-
 - [x] Core AI Chat Interface
 - [x] Context-aware page reading
 - [x] Basic browser automation (clicking, typing)
@@ -50,18 +54,13 @@ Go beyond text. Generate stunning images, compose music, write production-ready 
 - [ ] Enterprise SSO & Team plans
 
 ## Contributing
-
-We are currently accepting external pull requests, but we love feedback! 
-
-If you find a bug or have a feature request, please [open an issue](https://github.com/your-username/subo-ai/issues) and label it appropriately.
-
+We are currently accepting external pull requests, but we love feedback! If you find a bug or have a feature request, please [open an issue](https://github.com) and label it appropriately.
 
 ## Contact
-
-* **Website:** [subo](https://subo.me)
+* **Website:** [subo.me](https://subo.me)
 
 ---
+
 <div align="center">
-  <sub>Built with love by the Subo labs</sub>
+  <sub>Built by Subo labs</sub>
 </div>
-```
